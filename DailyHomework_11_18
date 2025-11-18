@@ -1,0 +1,11 @@
+1) One purpose for GitHub  
+GitHub is mainly used to store and organize code for a project in one place, while also keeping track of the full history of changes. It lets you put your files, documentation, and notes together in a repository that you can access from any computer, and it makes it easy to share your work with other people or with the public.
+
+2) What version control is and how it could help in my project  
+Version control is a system that records snapshots of your files over time, so you can see what changed, when it changed, and who changed it. Instead of just saving over a file, you make commits that create a clear history. For this project, version control would help me avoid breaking something that was working, because I could always go back to an earlier version if I mess up. It also helps keep my work organized and shows the progress of my project step by step.
+
+3) How GitHub could help manage collaboration in a group project  
+In a group project, GitHub would make it much easier to collaborate. Each person could work on their own branch without touching the main version of the project right away. When someone is ready, they can open a pull request, and the rest of the group can review the changes, leave comments, and decide when to merge them into the main branch. This helps avoid people overwriting each other’s work and makes it clear who did what.
+
+4) Why employers might be interested in a candidate’s GitHub site  
+Employers often look at a candidate’s GitHub because it shows real examples of their coding and how they structure and document projects. It can demonstrate the languages and tools the person uses, how they write and organize code, and whether they know how to use version control properly. If there are group projects, employers can also see how the person collaborates, writes commit messages, and participates in reviews, which can be more informative than just a résumé.
